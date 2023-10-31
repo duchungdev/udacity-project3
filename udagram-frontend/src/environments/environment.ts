@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   appName: 'My app',
-  apiHost: 'http://http://a66ce9d8438df4b1b9d981f80db1ff79-798925023.us-east-2.elb.amazonaws.com:8080/api/v0'
+  apiHost: 'http://a66ce9d8438df4b1b9d981f80db1ff79-798925023.us-east-2.elb.amazonaws.com:8080/api/v0'
 };
 
 /*
